@@ -29,3 +29,4 @@
 [![](https://visitcount.itsvg.in/api?id=Mario5T&icon=4&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @mario5t's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mario5t)](https://holopin.io/@mario5t)
