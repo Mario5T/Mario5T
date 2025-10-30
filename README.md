@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi I'm Aditya Singh a Full stack developer learning to be Adaptive and Flexible<br>with whatever tech stack I have still long way to go, also up for collaboration<br>on projects and community building. Always up for opportunities that change<br>my life or someway I can help others grow with me and make a <br>drastic Impact on society. Current Interests (Learn how integrate Ai into<br>Projects to make the most of the Data I have), Formula 1, Gaming, Anime<br>, and much more(The list might become to big If list all here)<br>
+👋 Hi, I'm Aditya Singh — a Full Stack Developer passionate about staying adaptive and flexible with any tech stack I work with.
+🚀 Always eager to learn, collaborate, and build projects that make a real-world impact.
+💡 Currently exploring how to integrate AI into applications to make the most of data.
+🤝 Open to collaborations and opportunities that drive growth — for myself and others.
+🏎️ Interests: Formula 1, Gaming, Anime, and plenty more!
 
 
 ## 🌐 Socials:
